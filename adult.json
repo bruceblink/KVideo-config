@@ -176,6 +176,14 @@
     "priority": 5
   },
   {
+    "id": "madou",
+    "name": "🔞麻豆视频",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "alvin",
     "name": "🔞--AIvin-",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
@@ -344,14 +352,6 @@
     "priority": 10
   },
   {
-    "id": "madou",
-    "name": "🔞麻豆视频",
-    "baseUrl": "https://91md.me/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "hsck",
     "name": "🔞黄色仓库",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
@@ -365,7 +365,7 @@
     "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "超时/宕机"
   },
   {
